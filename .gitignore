@@ -2,3 +2,4 @@ node_modules/
 database.sqlite
 .env
 *.log
+base_server_backup/
